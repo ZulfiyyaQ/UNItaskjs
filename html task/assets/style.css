@@ -1,0 +1,26 @@
+
+header Nav {
+  background-color: #2C3E50;
+}
+header Nav A{
+    color:azure !important
+}
+
+#hero {
+    background-color:#1abc9c;
+    min-height: 670px;
+}
+
+#portfolio {
+  background-color:white;
+  min-height: 670px;
+}
+
+#about {
+  background-color:#1abc9c;
+  min-height: 350px;
+}
+
+#upperfooter {
+  background-color: #2C3E50;
+}
